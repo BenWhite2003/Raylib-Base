@@ -1,0 +1,61 @@
+# ninja log v6
+23	44	7949348367603712	C:/dev/C++ Projects/MyGameCPP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8ea552ab9b176e47
+495	662	7949206946455331	thirdParty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rshapes.c.obj	95126ceae9db6b66
+80	465	7949206942313823	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	4262515955a8004a
+507	998	7949206946578948	thirdParty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rtextures.c.obj	852e5eba14a4ed5c
+438	938	7949206945897785	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	48fed8e60a06f416
+55	425	7949206942056459	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	bf60af08b005d13c
+60	449	7949210253409314	CMakeFiles/mygamecpp.dir/src/a.cpp.obj	7e1cae5c70fc0c3c
+83	452	7949206942344455	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	38b46f9369b3a1f8
+58	438	7949206942090693	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	1214794bdc496863
+87	501	7949206942381746	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	12541d28b1b19cde
+69	519	7949206942196527	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	c94cdd7069a57591
+51	445	7949206942023597	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	641e995b4dc62b94
+41	458	7949206941920114	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.obj	593bb8c4ce497193
+473	962	7949206946248756	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	e0f2aad81b7982
+72	473	7949206942230506	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	594416de17d6ba12
+44	480	7949206941950383	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.obj	9b4bc361e8decd7d
+458	1010	7949206946098757	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	922de72e243f3a93
+76	488	7949206942267674	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	c714b3c3029f33e5
+61	495	7949206942125811	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.obj	7557000da637c3b8
+47	506	7949206941990703	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.obj	df5bbb9e37a2bb10
+65	513	7949206942159144	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	58ad443360f951e2
+513	655	7949206946647422	thirdParty/raylib-5.0/raylib/CMakeFiles/raylib.dir/utils.c.obj	cc1cf2b066d80e1e
+445	950	7949206945960388	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	6dc8a0b57b9eb81d
+51	427	7949332311634291	CMakeFiles/mygamecpp.dir/src/platform/main.cpp.obj	70ebe02fc2e14760
+501	687	7949206946522473	thirdParty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rtext.c.obj	99d475c78d513686
+489	845	7949206946401804	thirdParty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rmodels.c.obj	29d1f7389f24e662
+480	915	7949206946306952	thirdParty/raylib-5.0/raylib/CMakeFiles/raylib.dir/rcore.c.obj	98b4ca1f9d53d802
+427	927	7949206945785866	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	90cb832b30d3366c
+466	969	7949206946169049	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	a4c6d9251e2affa4
+452	980	7949206946029131	thirdParty/raylib-5.0/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	b2be4b0e05d44d1
+662	1125	7949206948141922	thirdParty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.obj	b35fb4eb4b013ab
+1010	1132	7949206951615713	thirdParty/raylib-5.0/raylib/external/glfw/src/glfw3.lib	639586ed485ab5a9
+687	1316	7949206948383022	thirdParty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.obj	7d3f30be6424873b
+846	1325	7949206949975757	thirdParty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.obj	aeaee1e9d9c9c6b4
+916	1433	7949206950676840	thirdParty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.obj	8e4b94e1ed394398
+927	1507	7949206950786866	thirdParty/rlImgui/CMakeFiles/rlimgui.dir/rlImGui.cpp.obj	923d8942d7c55d2
+1708	1743	7949206958590057	thirdParty/rlImgui/rlimgui.lib	5419149b0906ab93
+519	1604	7949206946699143	thirdParty/raylib-5.0/raylib/CMakeFiles/raylib.dir/raudio.c.obj	b5eb16de300b8dff
+951	1633	7949206951016917	CMakeFiles/mygamecpp.dir/src/main.cpp.obj	a26c76b34172e9f4
+656	1664	7949206948066852	thirdParty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui.cpp.obj	98276b8be03bee1e
+63	443	7949348372314171	build.ninja	9e48ed1c834d2a93
+1605	1674	7949206957556961	thirdParty/raylib-5.0/raylib/raylib.lib	6c44a0bd95cb924e
+1664	1708	7949206958155906	thirdParty/imgui-docking/imgui.lib	d48cfc43e2ad1a94
+430	559	7949338578997277	mygamecpp.exe	50987a81d8280f30
+55	429	7949338575257172	CMakeFiles/mygamecpp.dir/src/gameLayer/gameMain.cpp.obj	347f46182abfb745
+45	619	7949348372314171	build.ninja	9e48ed1c834d2a93
+24	49	7949348373632139	C:/dev/C++ Projects/MyGameCPP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8ea552ab9b176e47
+60	598	7949348374000399	CMakeFiles/mygamecpp.dir/src/platform/asserts.cpp.obj	c25d83ae323284a5
+27	49	7949348418058077	C:/dev/C++ Projects/MyGameCPP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8ea552ab9b176e47
+20	41	7949348692630510	C:/dev/C++ Projects/MyGameCPP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8ea552ab9b176e47
+49	421	7949348692912828	CMakeFiles/mygamecpp.dir/src/gameLayer/gameMain.cpp.obj	347f46182abfb745
+421	596	7949348696633140	mygamecpp.exe	5719edb545071667
+27	48	7949348734734059	C:/dev/C++ Projects/MyGameCPP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8ea552ab9b176e47
+23	44	7949349168118499	C:/dev/C++ Projects/MyGameCPP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8ea552ab9b176e47
+52	433	7949349168393593	CMakeFiles/mygamecpp.dir/src/gameLayer/gameMain.cpp.obj	347f46182abfb745
+434	570	7949349172224772	mygamecpp.exe	5719edb545071667
+28	49	7949353253338652	C:/dev/C++ Projects/MyGameCPP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8ea552ab9b176e47
+57	429	7949353253627414	CMakeFiles/mygamecpp.dir/src/gameLayer/gameMain.cpp.obj	347f46182abfb745
+62	447	7949353253671045	CMakeFiles/mygamecpp.dir/src/platform/main.cpp.obj	70ebe02fc2e14760
+447	585	7949353257520634	mygamecpp.exe	5719edb545071667

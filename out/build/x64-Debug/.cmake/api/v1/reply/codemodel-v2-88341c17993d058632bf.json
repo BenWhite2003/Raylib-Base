@@ -1,0 +1,272 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "thirdParty/raylib-5.0",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-thirdParty.raylib-5.0-Debug-dd6107466b144cddeabf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "thirdParty/raylib-5.0",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "thirdParty/raylib-5.0/raylib",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-thirdParty.raylib-5.0.raylib-Debug-fff23cc7bcbe16a7ad3e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "thirdParty/raylib-5.0/src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "thirdParty/raylib-5.0/raylib/external/glfw",
+					"childIndexes" : 
+					[
+						4
+					],
+					"jsonFile" : "directory-thirdParty.raylib-5.0.raylib.external.glfw-Debug-e724462da09bd551bdce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "thirdParty/raylib-5.0/src/external/glfw"
+				},
+				{
+					"build" : "thirdParty/raylib-5.0/raylib/external/glfw/src",
+					"jsonFile" : "directory-thirdParty.raylib-5.0.raylib.external.glfw.src-Debug-2c3e51b9130ed1483c38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "thirdParty/raylib-5.0/src/external/glfw/src",
+					"targetIndexes" : 
+					[
+						0,
+						6
+					]
+				},
+				{
+					"build" : "thirdParty/imgui-docking",
+					"jsonFile" : "directory-thirdParty.imgui-docking-Debug-6950eb9b85f0373ecc3c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "thirdParty/imgui-docking",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "thirdParty/rlImgui",
+					"jsonFile" : "directory-thirdParty.rlImgui-Debug-d2155a69a802f12abfcc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "thirdParty/rlImgui",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mygamecpp",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "raylib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "GLFW",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "imgui",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "rlimgui",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "glfw::@8146224bfadb1acf4fcd",
+					"jsonFile" : "target-glfw-Debug-4681611a923162e7735b.json",
+					"name" : "glfw",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "imgui::@1a7826a5833d571de2d1",
+					"jsonFile" : "target-imgui-Debug-8dc1930809be0744daa8.json",
+					"name" : "imgui",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mygamecpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mygamecpp-Debug-3a91a539e549ac179f90.json",
+					"name" : "mygamecpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "raylib::@69894bb18a90ea117f76",
+					"jsonFile" : "target-raylib-Debug-d7227a606ee73d078fbf.json",
+					"name" : "raylib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "rlimgui::@bc44f20f8dc67549b53b",
+					"jsonFile" : "target-rlimgui-Debug-369cb68dac869ef1eae0.json",
+					"name" : "rlimgui",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@9facdd3c0862d5437d78",
+					"jsonFile" : "target-uninstall-Debug-1e2be1db559bdcc38496.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "update_mappings::@8146224bfadb1acf4fcd",
+					"jsonFile" : "target-update_mappings-Debug-26950c4adacab31afced.json",
+					"name" : "update_mappings",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/dev/C++ Projects/MyGameCPP/out/build/x64-Debug",
+		"source" : "C:/dev/C++ Projects/MyGameCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

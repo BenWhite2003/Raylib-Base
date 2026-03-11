@@ -1,0 +1,21 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\resources",
+    "\\src",
+    "\\thirdParty",
+    "\\thirdParty\\imgui-docking",
+    "\\thirdParty\\raylib-5.0",
+    "\\thirdParty\\raylib-5.0\\projects\\VS2019-Android",
+    "\\thirdParty\\raylib-5.0\\src"
+  ],
+  "SelectedNode": "\\thirdParty\\imgui-docking\\CMakelists.txt",
+  "PreviewInSolutionExplorer": false
+}
